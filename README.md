@@ -1,6 +1,6 @@
 # Hey, I'm Santi 👋
 
-- I'm an incoming engineering student at the University of 〽️ichigan 💛💙.
+- Incoming engineering student at the University of 〽️ichigan 💛💙.
 - Learning and using Python, C++, and a lot of Godot.
 - Currently building projects, preparing for college, and most importantly enjoying the process.
 
